@@ -4,8 +4,8 @@
 
 - name: HTML/CSS/JAVASCRIPT
   percentage: 80
-  color:
+  color: secondary
 
 - name: React.js
   percentage: 70
-  color: secondary
+  color: 
